@@ -1,4 +1,4 @@
-package homework_java_1;
+package guru.qa.homeworks;
 
 public class FirstHomeWork {
     public static void main(String[] args) {
